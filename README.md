@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)].(https://anildatascientist.io)
+![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi, there! 👋 I am Anil Bhatt.</h1>
 <h3 align="center">I am a data science enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
